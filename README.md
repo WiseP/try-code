@@ -1,2 +1,0 @@
-# try-code
-try
